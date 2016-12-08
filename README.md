@@ -22,7 +22,7 @@ Laravel provides the RESTful API. Angular provides the frontend and accesses the
 5. `php artisan migrate --seed` to create and populate tables
 6. `php artisan serve` to start the app on http://localhost:8000/
 
-## Tutorial Series
+## Tutorial Series (PT-BR)
 
 This repo corresponds to the Laravel and AngularJS tutorial on [thbastos.com - Criando uma aplicação com Laravel 5 e AngularJS](http://thbastos.com/blog/criando-uma-aplicacao-com-laravel-5-e-angularjs-1-instalar-e-configurar) PT-BR
 
