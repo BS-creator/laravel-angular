@@ -15,13 +15,13 @@ Laravel provides the RESTful API. Angular provides the frontend and accesses the
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/ThBastos/laravel-angular.git project-name
-2. 'cd projectname'
-3. 'composer install'
-4. php artisan key:generate
+1. Clone the repository: `git clone https://github.com/ThBastos/laravel-angular.git project-name`
+2. `cd projectname`
+3. `composer install`
+4. `php artisan key:generate`
 5. Create a database and inform .env
-6. php artisan migrate --seed to create and populate tables
-7. php artisan serve to start the app on http://localhost:8000/
+6. `php artisan migrate --seed` to create and populate tables
+7. `php artisan serve` to start the app on http://localhost:8000/
 
 ## Tutorial Series
 
