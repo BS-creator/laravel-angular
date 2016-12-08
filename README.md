@@ -1,8 +1,4 @@
 # laravel-angular
-Simple application of contact manager created with Laravel 5.3 and AngularJS.
-
-
-# laravel-angular
 A Laravel app built with MySQL and Angular. For demonstration purposes and a tutorial.
 Laravel provides the RESTful API. Angular provides the frontend and accesses the API.
 
